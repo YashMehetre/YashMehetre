@@ -6,7 +6,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate third-year B.Tech student specializing in Information Technology. With a positive attitude and an insatiable curiosity, I'm always ready to tackle new challenges in the world of tech. Currently seeking a Junior Software/Web Developer internship to apply my skills, learn more, and collaborate with an awesome team!
+Hello! I'm a third-year B.Tech student specializing in Information Technology. With a positive attitude and insatiable curiosity, I'm always ready to tackle new tech challenges. I have a strong foundation in programming and software development, with hands-on experience in various areas. 
+When I'm not coding, I explore new technologies and stay updated with the latest IT trends. 
+I'm passionate about continuous learning and am eager to connect and collaborate on exciting projects. Let's create something amazing together!
 
 ## 🛠️ Tech Stack
 
