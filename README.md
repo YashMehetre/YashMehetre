@@ -34,12 +34,14 @@ I'm a passionate third-year B.Tech student specializing in Information Technolog
 </div>
 
 ## 💻 Projects
-
+(Private Repos)
 1. 🎓 **Student Management System** - Sanjivani Group of Institutes (2023/06 - 2023/09)
-2. 🌐 **Dynamic Website for Sai Inficon Consultants** (2023/02 - 2023/05)
-3. 🤖 **Smart Virtual Assistant** - Python (2023/01)
-4. 🎥 **Chrome Extension: YouTube Timestamp Bookmarker** (2023/04 - 2023/05)
-5. 💰 **Payment Tracking and Analytics System** - For Shree Sai Trading Company (2023/09 - Current)
+<!--2. 
+3. 🌐 **Dynamic Website for Sai Inficon Consultants** (2023/02 - 2023/05)
+4. 🤖 **Smart Virtual Assistant** - Python (2023/01)
+5. 🎥 **Chrome Extension: YouTube Timestamp Bookmarker** (2023/04 - 2023/05)
+-->
+2. 💰 **Payment Tracking and Analytics System** - For Shree Sai Trading Company (2023/09 - Current)
 
 ## 🏆 Achievements
 
