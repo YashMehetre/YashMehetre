@@ -20,7 +20,7 @@
 I'm a passionate third-year B.Tech student specializing in Information Technology, with a keen interest in software development and emerging technologies. My journey is driven by curiosity and a desire to create impactful solutions.
 
 - 🔭 Currently working on: Payment Tracking and Analytics System
-- 🌱 Learning: Advanced React patterns and System Design
+- 🌱 Learning: System Design
 - 👯 Open to collaborate on: Open-source projects and innovative web applications
 - 🎯 2024 Goals: Contribute to major open-source projects and expand my full-stack expertise
 
@@ -75,7 +75,7 @@ I'm a passionate third-year B.Tech student specializing in Information Technolog
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashMehetre&theme=react" alt="Yash's GitHub Streak" />
 </p>
 
-## 🏆 Achievements & Certifications
+## 🏆 Achievements & Recent Certifications
 
 - 🌍 Delegate of Finland at WHO conference in AYIMUN 2021
 - 🏅 React Basics (Meta) - Coursera
