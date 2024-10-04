@@ -65,15 +65,19 @@ I'm a passionate third-year B.Tech student specializing in Information Technolog
   </tr>
 </table>-->
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats and 🧠 LeetCode Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashMehetre&show_icons=true&count_private=true&theme=react" alt="Yash's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashMehetre&theme=react" alt="Yash's GitHub Streak" />
-</p>
+<table>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=YashMehetre&show_icons=true&count_private=true&theme=react" alt="Yash's GitHub stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashMehetre&theme=react" alt="Yash's GitHub Streak" />
+    </td>
+    <td width="50%">
+      <img src="https://leetcard.jacoblin.cool/yashm_12?theme=dark&font=Noto%20Sans&ext=heatmap" alt="Yash Mehetre's LeetCode Stats" />
+    </td>
+  </tr>
+</table>
 
 ## 🏆 Achievements & Recent Certifications
 
