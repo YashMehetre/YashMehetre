@@ -17,7 +17,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate third-year B.Tech student specializing in Information Technology, with a keen interest in software development and emerging technologies. My journey is driven by curiosity and a desire to create impactful solutions.
+I'm a passionate B.Tech student specializing in Information Technology, with a keen interest in software development and emerging technologies. My journey is driven by curiosity and a desire to create impactful solutions.
 
 - 🔭 Currently working on: Payment Tracking and Analytics System
 - 🌱 Learning: System Design
